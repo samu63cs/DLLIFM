@@ -1,0 +1,5 @@
+D:\Codigo\source\repos\Zephyr Injector\Zephyr Injector\bin\Release\net6.0\publish\Zephyr Injector.exe
+D:\Codigo\source\repos\Zephyr Injector\Zephyr Injector\bin\Release\net6.0\publish\Zephyr Injector.dll
+D:\Codigo\source\repos\Zephyr Injector\Zephyr Injector\bin\Release\net6.0\publish\Zephyr Injector.deps.json
+D:\Codigo\source\repos\Zephyr Injector\Zephyr Injector\bin\Release\net6.0\publish\Zephyr Injector.runtimeconfig.json
+D:\Codigo\source\repos\Zephyr Injector\Zephyr Injector\bin\Release\net6.0\publish\Zephyr Injector.pdb
